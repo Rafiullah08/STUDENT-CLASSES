@@ -1,0 +1,19 @@
+ -----images----------
+
+
+ 1- apne website keliye hamisha high resolution wale pic use krlo
+    mean pixelate na ho
+
+ 2- two way for adding img
+  a- offline (save img on your pc)
+  b- online  (copy img address)
+
+types of image-
+1. jpeg
+2. png or gifs
+3. vector 
+
+
+ for adding img use <img src= "cars.jpeg"> tag .
+  for sizing we use (width) and (hight)
+

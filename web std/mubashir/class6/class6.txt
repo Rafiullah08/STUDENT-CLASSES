@@ -1,0 +1,13 @@
+
+
+-----LINKS----
+ SIMPLE LINKS KO HUM ROUTING KELIYE USE KRTE HAIN-
+
+THERE ARE TWO TYPES OF LINKS
+ 1- RELATIVE LINKS
+ 2- ABSOLUTE LINKS
+
+
+ Tag for links-
+ <a> mean ankor tag
+  href mean (hyper refrence)

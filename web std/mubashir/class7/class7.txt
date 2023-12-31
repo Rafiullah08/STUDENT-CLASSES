@@ -1,0 +1,3 @@
+---class 7-----
+1- target (to open in new tab)
+2- mailto( <a href= "mailto:john@gmail.com"> john </a> )

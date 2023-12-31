@@ -1,0 +1,46 @@
+/* h1{
+    font-size: 36px;
+    text-transform: uppercase;
+    line-height: 30px;
+    /* letter-spacing: 10px; */
+    /* word-spacing: 30px; */
+/* text-align: left; */
+/* vertical-align: bottom; */
+
+/* } */
+/* p{
+    /* text-align: justify;
+    text-indent: 10px;
+    
+}
+p::first-line{
+ color: green;
+ font-size: larger;
+
+}
+h1::first-letter{
+    font-size: 60px;
+    color: red;
+    word-spacing: 30px;
+    font-weight: 900; 
+}  */
+button{
+    width: 150px;
+    height: 35px;
+    background-color: blue;
+    color: white;
+
+}
+button:hover{
+    background-color: gray;
+    color: black;
+    font-size: larger;
+}
+a:hover{
+    background-color: blue;
+    color: white;
+    font-size: larger;
+}
+h1{
+    text-shadow: 0px 0px 5px yellow;
+}

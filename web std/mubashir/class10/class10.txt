@@ -1,0 +1,12 @@
+
+ ----table--
+ 1- table  (table tag)
+ 2- tr  ( table row)
+ 3- td  (table description)
+ 4- th  (table heading)
+ 5-colspan (colum span)
+  <table>
+  <tr>
+  <td>  </td>
+  </tr>
+  </table>

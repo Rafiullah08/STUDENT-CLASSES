@@ -1,0 +1,8 @@
+      semantic markup....
+1- semanti mean "meaningful"
+2- strong
+3- empasis
+4- blockquote
+5- qotaion (q)
+6- abbriviation (abbr)
+7- hr (horizontal line)

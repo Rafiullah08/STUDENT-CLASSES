@@ -1,0 +1,27 @@
+
+
+------before start HTML---------
+1- file create krna
+2- file ko rename krke index.html krna hai
+3- vs code ko download krna hai
+4- apne banaye huwe foldeer ko vs code ke andr open krna hai
+
+
+
+------- html ke kuch basic tages-------
+  1. <!DOCTTYPE html>  ||(represent html verion 5)
+  2. <html> (hyper text markup language)
+
+  3. <head> </head>
+  4. <body> </body>
+
+
+ </html>
+
+------types of tags---------
+   there are two type of tags 
+   1. open tags
+   2. closing tags
+
+<br>
+<hr>

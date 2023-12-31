@@ -1,0 +1,197 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.container {
+    background-color: white;
+    width: 100%;
+    height: 100vh;
+
+}
+
+.formcontainer {
+    width: 20%;
+    padding: 30px;
+    text-align: center;
+    margin-left: 200px;
+    margin-top: 100px;
+    display: inline-block;
+    float: left;
+    border-radius: 6px 0px 0px 6px;
+    box-shadow: 6px 6px 4px lightgrey;
+    background-color: aqua;
+}
+
+.heading h1 {
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 900;
+
+}
+
+.heading p {
+    color: lightgrey;
+    margin-top: 50px;
+    font-size: large;
+}
+
+.forminput {}
+
+.input1 {
+    display: block;
+    width: 100%;
+    height: 40px;
+    margin-top: 10px;
+    background-color: lightgray;
+    border: none;
+    border-radius: 4px;
+    padding-left: 10px;
+}
+
+.input2 {
+    display: block;
+    width: 100%;
+    height: 40px;
+    margin-top: 10px;
+    background-color: lightgray;
+    border: none;
+    border-radius: 4px;
+    padding-left: 10px;
+}
+
+.formbtn p {
+    color: lightgray;
+    margin-top: 20px;
+}
+
+.formbtn button {
+    background-color: red;
+    width: 50%;
+    height: 40px;
+    border: none;
+    border-radius: 30px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.formcontainer2 {
+    background-color: red;
+    width: 20%;
+    padding: 30px;
+    text-align: center;
+    height: 318px;
+    display: inline-block;
+    margin-top: 100px;
+    border-radius: 0px 6px 6px 0px;
+    box-shadow: 2px 2px 4px green;
+}
+
+.heading2 {
+    color: white;
+    padding-top: 50px;
+    font-family: sans-serif;
+}
+
+.heading2 p {
+    padding-top: 20px;
+    line-height: 23px;
+
+}
+
+.container3 {
+    width: 100%;
+
+}
+
+.formcontainer3 {
+    width: 30%;
+
+    box-sizing: border-box;
+    background-color: aqua;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 6pc;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+
+.forminput3 {
+    
+}
+
+.box1 {
+    height: 40px;
+    width: 46%;
+    margin-top: 40px;
+ border-radius: 4px;
+ margin-left: 9px;
+ box-sizing: border-box;
+ padding-left: 4px
+}
+
+.box2 {
+    height: 40px;
+    width: 47%;
+    border-radius: 4px;
+    box-sizing: border-box;
+    padding-left: 4px
+}
+
+.box3 {
+    width: 94%;
+    height: 40px;
+    margin-top: 10px;
+    border-radius: 4px;
+    margin-left: 9px;
+    box-sizing: border-box;
+ padding-left: 4px
+}
+
+.box4 {
+    width: 94%;
+    height: 40px;
+    margin-top: 10px;
+    border-radius: 4px;
+    margin-left: 9px;
+    box-sizing: border-box;
+ padding-left: 4px
+}
+
+.box5 {
+    width: 94%;
+    height: 40px;
+    margin-top: 10px;
+    border-radius: 4px;
+    margin-left: 9px;
+    box-sizing: border-box;
+ padding-left: 4px
+}
+.checkbox{
+    margin-top: 20px;
+    margin-left: 5pc;
+    
+}
+.para {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.para button {
+    width: 80%;
+    height: 40px;
+    text-align: center;
+    border-radius: 30px;
+    background-color: lightgreen;
+    font-size: larger;
+
+}
+.para2{
+    text-align: center;
+    color: black;
+    line-height: 20px;
+}
+.para2 p{
+    color: black;
+    
+}

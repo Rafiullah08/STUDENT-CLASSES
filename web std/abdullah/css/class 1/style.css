@@ -1,0 +1,33 @@
+/* *{
+    background-color: red;
+    font-size: 26px;
+}
+h1 ,h2 {
+    background-color: blue;
+}
+a{
+    background-color: white;
+}
+
+.head{
+    background-color: yellow;
+}
+#head3{
+    background-color: green;
+} */
+
+li a{
+    background-color: blue;
+}
+p a{
+    background-color: blue;
+}
+{
+    background-color: green;
+}
+
+
+.heading h1, h2, h3 ,p{
+    background-color: blue;
+}
+

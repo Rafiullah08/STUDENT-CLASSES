@@ -1,0 +1,48 @@
+.inputbox{
+    width: 500px;
+    height: 30px;
+    font-size: larger;
+    padding-left: 10px;
+    border: none;
+    box-shadow: 1px 1px 5px black;
+    
+}
+
+.inputbox:hover{
+    border: 2px solid black;
+    cursor: pointer;
+    box-shadow: none;
+    transition: 3s;
+}
+
+
+button{
+    width: 100PX;
+    height: 35px;
+background-color: silver;
+color: white;
+border: none;
+border-radius: 20px;
+margin-top: 20px;
+}
+button:hover{
+    background-color: red;
+    color: white;
+    font-weight: 900;
+}
+legend{
+    /* background-color: blue; */
+    color: black;
+    border: 2px solid black;
+    width: 70px;
+    height: 25px;
+    
+}
+fieldset{
+    color: red;
+    text-shadow: 2px 2px 5px aqua;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid red;
+}
