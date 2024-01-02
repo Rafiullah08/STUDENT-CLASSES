@@ -1,0 +1,42 @@
+.mytable{
+    width: 400px;
+    /* height: 300px;    */
+    background-color: aqua;
+    border: 2px solid red;
+    /* border-spacing: 20px; */
+
+    border-collapse: collapse;
+    border-collapse: separate;
+    
+}
+
+.mytable tr{
+
+}
+.mytable th{
+    /* border-bottom: 2px solid black; */
+    text-transform: capitalize;
+    color: purple;
+}
+.mytable th:hover{
+    background-color: plum;
+    color: white;
+    cursor: pointer;
+    transition: 1s;
+}
+
+.mytable td{
+    /* border: 1px solid black; */
+    text-align: center;
+box-shadow: 1px 2px 3px 4px red;
+}
+
+.mytable td:hover{
+    
+}
+.mytable tr:hover{
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+
+}
