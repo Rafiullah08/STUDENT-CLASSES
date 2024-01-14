@@ -1,0 +1,35 @@
+a{
+    font-size: larger;
+    text-decoration: none;
+}
+a:hover{
+    background-color: blue;
+    color: white;
+}
+/* /* a:active{
+    background-color: black;
+    color: white;
+} */
+/* a:focus{
+    background-color:black;
+}
+p{
+    line-height: 30px;
+}
+h1::first-letter{
+
+} */
+
+/* 
+h1{
+    background-color: blue;
+    width: 300px;
+    height: 300px;
+} */ */
+
+/* box1{
+    width: 300px;
+    height: 200px;
+    background-color: blue;
+} */
+

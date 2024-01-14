@@ -1,0 +1,48 @@
+---mobile responsive--
+1. flex
+2. media query
+3. grid
+
+
+
+flex game 
+ flex frogy...
+
+... flex properties ..
+1) disply flex
+2) justify-content : center, end, flex-start
+3) align-items : center, end, flex-start
+4) flex-direction: column
+5) flex- direction : row
+6) flex-direction: column-reverse
+7) flex-direction: row-reverse
+8) flex-wrap : wrap
+9) flex-shrink: 0 => use in child
+10) gap : 10px
+11) order: 1,2,3;
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

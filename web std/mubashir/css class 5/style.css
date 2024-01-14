@@ -1,0 +1,21 @@
+/* h1{
+    word-spacing: 10pc;
+    
+    
+} */
+/* h1{
+    text-align: center;
+    text-indent: ;
+p{
+    text-indent: 45px;
+} */
+
+h1::first-letter {
+    font-size: 72px;
+    text-transform:uppercase ;
+    
+}
+p::first-line{
+    background-color: blue;
+    font-size: 45px;
+}

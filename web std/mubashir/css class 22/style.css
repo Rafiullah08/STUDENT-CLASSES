@@ -1,0 +1,12 @@
+.head{
+    font-size: 36px;
+    text-align: center;
+    color: blue;
+}
+
+
+.CARD{
+    width: 300PX;
+    height: 300px;
+    background-color: aqua;
+}

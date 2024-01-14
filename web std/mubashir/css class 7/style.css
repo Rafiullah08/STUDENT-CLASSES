@@ -1,0 +1,25 @@
+h1{
+  background-color: blue;
+  max-width: 400px;
+  min-height: 300px;
+margin-left: 50px;
+padding-left: 30px;
+padding-top: 30px;
+border: 10px solid yellow;
+}
+h2{
+    background-color: burlywood;
+    min-width: 300px;
+    min-height: 300px;
+}
+h3{
+    background-color: black;
+    min-width: 300px;
+    max-height: 300px;
+    color: white;
+}
+.hrrr{
+    width: 50%;
+    height: 20px;
+    background-color: blue;
+}

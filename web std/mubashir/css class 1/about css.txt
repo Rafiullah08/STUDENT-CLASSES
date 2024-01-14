@@ -1,0 +1,14 @@
+css
+types of css
+1. external css:
+  isme hum css ka ek alg se file bna kar phr us file ko html 
+  ke sath link kr dete hain.
+2. internal css:
+   isme hum html file ke andr haed me styling krte hain.
+3. inline css:
+   isme hum hr line me jakr styleing krte hain.
+
+   selectors. 
+   declaration 
+   property 
+   valu

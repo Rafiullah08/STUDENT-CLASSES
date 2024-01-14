@@ -1,0 +1,8 @@
+.section1 p{
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.section1 span{
+    margin-left: 50px;
+}

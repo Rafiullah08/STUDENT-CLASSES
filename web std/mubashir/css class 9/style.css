@@ -1,0 +1,33 @@
+.box1{
+    width: 300px;
+    height: 300px;
+    background-color: blue;
+    box-shadow: 10px 10px 10px black;
+    margin-top: 10px;
+}
+.box2{
+    width: 300px;
+    height: 300px;
+    background-color:green;
+    visibility: hidden;
+    visibility: visible;
+    margin-top: 10px;
+}
+.box2:hover{
+    background-color: white;
+    box-shadow: 5px 5px 5px black;
+}
+
+
+.box3{
+    width: 300px;
+    height: 300px;
+    background-color: yellow;
+}.box4{
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    /* border-image: url(./8.jpg) 
+    30px 30px 30px 30px stretch; */
+
+}
