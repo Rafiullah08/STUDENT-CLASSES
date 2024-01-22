@@ -1,0 +1,10 @@
+---semantic markup---
+they do add extra information to the 
+pages — they are known as semantic markup.
+
+
+ ---- seo mean => search engin optimization
+ 1- strong == bold
+ 2- emphasis == italic
+ 3- qutation == double inverted qomas
+ 4- blockquote == line break and get some space in start
