@@ -1,0 +1,41 @@
+  ---------------------javascript--------------------------
+
+1)javascript hum Q istemal karte he?
+iske  zarye hum static website ko dynamic bantate hai.
+is lye k zarye se ham website develop karte he or buht si
+application bana sakte he.
+
+2)JVscript programing language he?
+
+JVscript script language he jo srif aik browser ke liye use
+ho sakti he,kabhi kabhi JVscript programing language k tor
+par bhi istemal hota he.
+
+3)JVscript kya kam karta he?
+
+1.clint 2.serwer 3.bakend
+computer aik binari language ko samajhta he is liye ham 
+browser par apni web site show karne k lye JVscript ka 
+istemal karte he jo clint side ke liye sab se phle 
+"server" k pas jata he or wo "bakend" se utha kar aage 
+"clint side" ko apply karta he.
+
+            -------------------------
+
+1)- scripting language.
+ye language browser k liye use ki jati he
+jis ka istimal ham JVscript ke zarye karte he.
+  
+
+three types of (translator) in javascript.
+1).compiler..=>  pehle pure code ko read krta hai
+ phr apko output deta hai.
+2).interpriter => line by line read krta hai ot output deta hai.
+JVscript me is ka istemal ham zyada karte he
+3).assembler.. =>
+
+programming language.
+a set of instruction. 
+  
+
+  

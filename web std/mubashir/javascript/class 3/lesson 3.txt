@@ -1,0 +1,16 @@
+ types of data = predefine data type
+ 1. string =>  (collection of alphabets number
+    and special caracters)
+ 2. number 
+ 3. booloen => true are false
+ 4. null
+ 5. undefined
+
+* data save karne ke 3 option he.
+1)VAR a = 16,  2)let a = 18,   3)const b = 32
+
+ teno ka kam aik hi he lekin kuch farq he.
+
+ "var" ko jo name apne diya he usi name se aap buht se VAR 
+bana sakte he.
+ 

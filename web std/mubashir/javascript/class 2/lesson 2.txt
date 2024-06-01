@@ -1,0 +1,26 @@
+  ----------------------class 02-----------------------
+
+1)jis tarah ham styling k liye css me (3) tariqe use karte
+  he. 1)internal.   2)external.   3)inline.
+  yahi (3)tariqe JS k liye bhi use karte he.
+
+
+2)"Alerat"ka tage use karte he popup me koe bhi massage show krwane ke liye.
+
+
+3)JS me ham apna data save karne k liye "VAR"(VARIABLE)
+ ka istemal karte he.
+ jis ke liye ham sab se phle lekhte he "VAR a =16" var mean
+ variable or "a"se ye variable ko define karta he or phir
+ jo 16 he ye value he.(number me value den ge to semicolan 
+ ""ke illawa code kare ge,or agar ham alpha bate ko use kare 
+ to semicolan"..." ke sath use kare ge)
+
+4)
+
+5)
+
+
+ 
+
+  

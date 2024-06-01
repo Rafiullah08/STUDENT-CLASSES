@@ -1,0 +1,13 @@
+        ----------------------------class 04--------------------
+
+=>Legal and Unlegal veriable name.
+
+01) A variable name can't contain any spaces.
+
+02) A variable name can contain only letters, numbers, dollar
+signs, and underscores.
+
+03) legal variable name Qubool karta he "camel case" keyword
+ko.For Example: ' let userAlert = 16 ' and ' let myVar = 32'
+
+

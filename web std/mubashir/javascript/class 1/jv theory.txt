@@ -1,0 +1,15 @@
+----javascript---
+1)- scripting language.
+
+three types of (translator) in javascript.
+1).compiler..=>  pehle pure code ko read krta hai
+ phr apko output deta hai.
+2).interpriter => line by line read krta hai ot output deta hai.
+3).
+
+programming language.
+a set of instruction. 
+
+
+
+
