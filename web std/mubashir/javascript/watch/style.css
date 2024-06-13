@@ -1,0 +1,16 @@
+.watch{
+    width: 400px;
+    height: 200px;
+    border: 1px solid green;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    display: flex; 
+    justify-content: center;
+    gap: 30px;
+}
+
+.watchtime{
+    margin-top: 40px;
+}
